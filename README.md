@@ -1,5 +1,4 @@
 # Excel-Retail-Sales-Analysis
-Analyzed retail sales and profitability across regions and product categories; identified West underperformance, discount-driven margin erosion, and Q3 seasonal uplift using KPI-driven Excel dashboards.
 
 # Busines Problem 
 A retail company wants to understand its sales performance across regions, product categories, and time to improve profitability and operational decisions.
